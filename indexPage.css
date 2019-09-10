@@ -19,6 +19,10 @@ img {
 img.thumbnail {
 	width:360px;
 	height:242px;
+	margin:20px;
+}
+img.right{
+	right-side;
 }
 img.rotate90{
 	-webkit-transform: rotate(90deg);
