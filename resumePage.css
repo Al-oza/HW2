@@ -1,0 +1,18 @@
+body {
+	background-color: #E8E8E8;
+}
+h1{color: black;
+	text-align: center;
+	font: bold 350% fantasy;
+	height: 20px;
+}
+h2{color:black;
+	text-align: left;
+	font: bold underline 220%;
+	height: 20px;
+}
+p {color: black;
+	text-align:center;
+	font: 160% fantasy;
+	height: 5px;
+}
