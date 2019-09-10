@@ -13,4 +13,18 @@ h2 {color: #4424D6;
 	font: italic 150% fantasy;
 	height: 75px;
 }
+img {
+	max-width: 100%;
+}
+img.thumbnail {
+	width:360px;
+	height:242px;
+}
+img.rotate90{
+	-webkit-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+	transform: rotate(90deg);
+}
 
