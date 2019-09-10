@@ -13,6 +13,14 @@ h2 {color: #4424D6;
 	font: italic 150% fantasy;
 	height: 75px;
 }
+ul {color: #4424D6;
+	text-align: left;
+	font: 120% fantasy;
+}
+p {color: #4424D6;
+	text-align:left;
+	font: 120% fantasy;
+}
 img {
 	max-width: 100%;
 }
