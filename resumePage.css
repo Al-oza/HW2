@@ -10,6 +10,7 @@ h1{color: black;
 h2{color:black;
 	text-align: left;
 	font: bold 290% Times New Roman;
+	margin: 0 auto;
 	height: 20px;
 }
 h3{color:black;
@@ -44,5 +45,5 @@ ul {color: black;
 }
 ul.first{font: 150% Times New Roman;
 }
-ul.second{font: 55% Times New Roman;
+ul.second{font: 45% Times New Roman;
 }
