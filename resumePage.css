@@ -3,16 +3,46 @@ body {
 }
 h1{color: black;
 	text-align: center;
-	font: bold 350% fantasy;
+	font: bold 350% Times New Roman;
 	height: 20px;
+	
 }
 h2{color:black;
 	text-align: left;
-	font: bold underline 220%;
+	font: bold 290% Times New Roman;
+	height: 20px;
+}
+h3{color:black;
+	text-align: left;
+	font: bold 290% Times New Roman;
 	height: 20px;
 }
 p {color: black;
-	text-align:center;
-	font: 160% fantasy;
 	height: 5px;
+}
+p.address {
+	text-align:center;
+	font: 160% Times New Roman;
+}
+p.leftsideTitle{
+	text-align: left;
+	font:bold 65% Times New Roman;
+	height: 25px;
+}
+p.leftsideInfo{
+	text-align: left;
+	font:140% Times New Roman;
+	height: 25px;
+}
+p.leftsideInfo1{
+	text-align: left;
+	font:55% Times New Roman;
+	height: 25px;
+}
+ul {color: black;
+	text-align:left;
+}
+ul.first{font: 150% Times New Roman;
+}
+ul.second{font: 55% Times New Roman;
 }
